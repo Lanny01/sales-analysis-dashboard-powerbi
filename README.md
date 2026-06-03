@@ -1,7 +1,8 @@
 # Sales Performance Dashboard (Power BI)
 Interactive Power BI dashboard analyzing logistics operations, revenue, profit, and operational performance metric
 
-![Dashboard Preview](dashboard.png)
+<img width="1614" height="801" alt="image" src="https://github.com/user-attachments/assets/0efb8d3e-1d5b-4b20-a8ef-7336b1723706" />
+
 
 ---
 
